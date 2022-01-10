@@ -1,5 +1,5 @@
-Hi, I’m @McTrusty420
-I'm just a beginner
+Hi, I’m @McTrusty420\n
+I'm just a beginner\n
 idk
 
 <!---
